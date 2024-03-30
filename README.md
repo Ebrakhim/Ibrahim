@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hey there! I'm Abraham, but you can call me Ibrahim. I'm more than just lines of code; I'm a passionate programmer with a love for crafting digital worlds and solving complex problems.
+Hey there! I'm Abraham, but you can call me Ibrahim.I'm a passionate programmer with a love for crafting digital worlds and solving complex problems.
 
 ## Programming Journey
 
